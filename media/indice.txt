@@ -1,0 +1,31 @@
+Material web · «Lo que Colombia no ve» (reportaje final, 13:41)
+nombre | qué muestra | minuto en el reportaje
+
+clip_valeria_kart_curva.mp4 | Valeria Reyes con el kart 981 en carrera, en curva (grabado en vertical y recortado a horizontal) · 7 s, sin audio | 1:40, 10:10, 10:38
+clip_valeria_kart_salida.mp4 | Salida de una carrera de karts con el pelotón en pista (grabado en vertical y recortado) · 6 s, sin audio | 1:18, 5:22, 10:16
+clip_valeria_autodromo.mp4 | Valeria camina por el Autódromo de Tocancipá · 6 s, sin audio | 1:13, 9:23
+clip_santiago_moto_salto.mp4 | Santiago Aguillón salta con la moto en la pista de motocross · 7 s, sin audio | 0:00, 10:27
+clip_santiago_moto_curva.mp4 | Santiago en moto por la pista de tierra de Guasca · 6 s, sin audio | 0:24, 6:48, 7:04
+clip_santiago_moto_pista.mp4 | Plano general: salto de motocross con montañas y cielo · 7 s, sin audio | 6:44
+clip_santiago_moto_rampa.mp4 | Santiago sube la moto al remolque · 6 s, sin audio | 8:30, 13:31
+clip_juanpablo_padel_golpe.mp4 | Juan Pablo Maldonado juega en la cancha de pádel · 8 s, sin audio | 0:12, 3:55, 5:45
+clip_juanpablo_padel_cancha.mp4 | Plano general de la cancha de pádel en juego · 7 s, sin audio | 0:14, 4:09
+clip_juanpablo_padel_juego.mp4 | Peloteo en la cancha de pádel bajo techo · 8 s, sin audio | 2:07
+clip_andres_ultimate_lanzamiento.mp4 | Andrés Montenegro lanza el disco de ultimate en la cancha · 7 s, sin audio | 0:05, 2:51, 3:04
+clip_andres_ultimate_preparacion.mp4 | Andrés saca el disco del maletín y sale a la cancha · 8 s, sin audio | 3:09, 6:08
+foto_valeria_retrato.jpg | Retrato de Valeria Reyes en la entrevista, pista de karts detrás (para avatar) | 1:33
+foto_santiago_retrato.jpg | Retrato de Santiago Aguillón con su casco, en Guasca (para avatar) | 1:05
+foto_juanpablo_retrato.jpg | Retrato de Juan Pablo Maldonado en el club de pádel (para avatar) | 1:57
+foto_andres_retrato.jpg | Retrato de Andrés Montenegro en la cancha de ultimate (para avatar) | 2:53
+foto_valeria_entrevista.jpg | Valeria en la entrevista, plano completo; espacio libre a la izquierda | 1:33
+foto_santiago_entrevista.jpg | Santiago en la entrevista, plano completo; montañas y cielo a la izquierda | 1:05
+foto_autodromo_general.jpg | Plano general del Autódromo de Tocancipá; cielo y pista despejados (fondo de portada) | 3:00, 3:44
+foto_autodromo_recta.jpg | Recta del Autódromo de Tocancipá con la tribuna; espacio libre (fondo de portada) | material de apoyo que no entró en el corte final
+foto_motocross_paisaje.jpg | Paisaje de la pista de motocross de Guasca; mucho cielo (fondo de portada) | ese plano sale en 0:21, 0:37, 6:39 (otro momento del mismo plano)
+foto_motocross_salto.jpg | Santiago en el aire en un salto; cielo libre a un lado | 0:02, 10:28
+foto_motocross_pista.jpg | Santiago en la pista de tierra, con montañas y nubes (fondo de portada) | 12:29, 13:10
+foto_padel_cancha.jpg | Cancha de pádel azul con la valla Gatorade (fondo de portada) | 13:23
+foto_padel_juego.jpg | Juan Pablo en juego en la cancha de pádel | 5:47, 7:31, 12:50
+foto_ultimate_cancha.jpg | Andrés lanza el disco; cancha y montaña con espacio libre (fondo de portada) | 2:52, 12:10
+foto_ultimate_campo.jpg | Andrés camina hacia la cancha con el maletín (fondo de portada) | ese plano sale en 2:48, 3:09, 6:08 (otro momento del mismo plano)
+foto_valeria_kart.jpg | Valeria y su kart 981 en carrera (grabado en vertical y recortado) | 10:15
